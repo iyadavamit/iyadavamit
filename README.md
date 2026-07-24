@@ -21,3 +21,5 @@
   <a href="https://github.com/iyadavamit"><img src="https://img.shields.io/badge/GitHub-iyadavamit-1a1b27?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=iyadavamit&style=flat-square&color=7aa2f7&label=Profile+views" alt="Profile views" />
 </p>
+
+<!-- profile card • updated via API -->
