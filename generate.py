@@ -19,14 +19,11 @@ HEADER_HOST = "yadav"
 
 SYSTEM = [
     ("IDE", "IntelliJ IDEA, VS Code"),
-]
-SKILLS = [
     ("Languages", "Java, C, C++, SQL"),
-    ("Frameworks", "Spring Boot, Apache Kafka, RESTful APIs, Microservices Architecture"),
-    ("Cloud & DevOps", "Google Cloud Platform (GCP), Terraform, GitHub Actions, Docker, CI/CD Pipelines"),
+    ("Cloud & DevOps", "GCP, Terraform, GitHub Actions, Docker, CI/CD Pipelines"),
     ("Databases", "Oracle Database"),
-    ("Tools", "Git, Maven, Postman, IntelliJ IDEA, Swagger, Jira, Confluence, gcloud CLI, Shell (Bash), SWIFT Translator"),
 ]
+
 EMAIL = "ay3593161@gmail.com"
 LEETCODE = "Amit_yadav01"
 
