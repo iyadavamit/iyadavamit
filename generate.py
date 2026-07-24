@@ -18,9 +18,6 @@ HEADER_USER = "amit"
 HEADER_HOST = "yadav"
 
 SYSTEM = [
-    ("OS", "Windows 11, Linux"),
-    ("Host", "TDI Global Hackathon 2026"),
-    ("Kernel", "Full-Stack & Cloud Developer"),
     ("IDE", "IntelliJ IDEA, VS Code"),
 ]
 SKILLS = [
