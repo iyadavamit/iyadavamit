@@ -1,65 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="889" height="600" viewBox="0 0 889 600" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,Menlo,monospace">
-<rect x="1" y="1" width="887" height="598" rx="14" fill="#1a1b27" stroke="#2f3549" stroke-width="1.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="896" height="652" viewBox="0 0 896 652" font-family="'DejaVu Sans Mono','Menlo','JetBrains Mono',monospace">
+<rect x="1" y="1" width="894" height="650" rx="14" fill="#1a1b27" stroke="#2f3549" stroke-width="1.5"/>
 <circle cx="22" cy="22" r="6" fill="#f7768e"/>
 <circle cx="42" cy="22" r="6" fill="#e0af68"/>
 <circle cx="62" cy="22" r="6" fill="#9ece6a"/>
-<g font-size="9.0" fill="#d3dae3" xml:space="preserve" style="white-space:pre" font-weight="bold">
-<text x="34" y="176.7">                              @%#%%%%@@@@@</text>
-<text x="34" y="186.5">                            #*+=+#%%%@@%@%%@</text>
-<text x="34" y="196.3">                           @%#*=*%%%%@@@@@@%@</text>
-<text x="34" y="206.1">                          @@@#+*%%#%@@@@@@@@@</text>
-<text x="34" y="215.9">                          @@%###%@@@@@@@%@@@@</text>
-<text x="34" y="225.7">                           @@@%%@@@%#%%#*#@@@</text>
-<text x="34" y="235.5">                           ##:*#%@%**%%%#**%%</text>
-<text x="34" y="245.3">                           #- :=++=-+*+++++#@</text>
-<text x="34" y="255.1">                            #-::==-=+*++++#%</text>
-<text x="34" y="264.9">                             %==***#%##**#@</text>
-<text x="34" y="274.7">                            %++*#***##*#%@</text>
-<text x="34" y="284.5">                        %#*-.-:+##****#%#*%</text>
-<text x="34" y="294.3">                  #*+-:..   .#==*####%%##*:-=+*%</text>
-<text x="34" y="304.1">               +:.          :++********#%#---::::-+#</text>
-<text x="34" y="313.9">             =. .: ....:.   :-.:=++******+-:--==-::..-*</text>
-<text x="34" y="323.7">            -.:::=.:-:.:-:-:::.  ...::...---:-=====---.:@</text>
-<text x="34" y="333.5">           : :=+++:-=..+*:=-=:.       .::-:+#++====++==-+</text>
-<text x="34" y="343.3">          +  .-=++:--.=+=...--:  ..  .:.:-=*#*++===+++*+=%</text>
-<text x="34" y="353.1">          :  .:==:-..-**+=-:-+-.    ..:.=*##**+====++*++==</text>
-<text x="34" y="362.9">         % .  :*+.::=*%#**=--#=:  ...:.+%%#####*******++=-%</text>
-<text x="34" y="372.7">         # ....#*..:=+#*-..:*#+: ....--%#+===+*+----=***+-+</text>
-<text x="34" y="382.5">         +  .::*%#:-=+**++****=: ...::=#**+=+++====+**#*==-%</text>
-<text x="34" y="392.3">         ::-::-=%@=:++**+===++-. ...-:+#++===++++++*###*==-=</text>
-<text x="34" y="402.1">         .--=+++*@%:=+*+---=*=-. ..:-:+#++===++++++#%#*+++=:*</text>
-<text x="34" y="411.9">        %  .-=++*%@.-+*+---++=:  ..:--+#++++==+++++#%#*+++==-%</text>
-<text x="34" y="421.7">        - .-=+++*#@-:+*=---*:=.   :---+*+++++=*++++#@**+++===+</text>
-<text x="34" y="431.5">       #  :++***##%+-**+=-++-=    :-=-=**=++++**+++*%****++++=#</text>
+<g font-size="9.0" fill="#d3dae3" xml:space="preserve" style="white-space:pre">
+<text x="30" y="202.7">                              @%#%%%%@@@@@</text>
+<text x="30" y="212.5">                            #*+=+#%%%@@%@%%@</text>
+<text x="30" y="222.3">                           @%#*=*%%%%@@@@@@%@</text>
+<text x="30" y="232.1">                          @@@#+*%%#%@@@@@@@@@</text>
+<text x="30" y="241.9">                          @@%###%@@@@@@@%@@@@</text>
+<text x="30" y="251.7">                           @@@%%@@@%#%%#*#@@@</text>
+<text x="30" y="261.5">                           ##:*#%@%**%%%#**%%</text>
+<text x="30" y="271.3">                           #- :=++=-+*+++++#@</text>
+<text x="30" y="281.1">                            #-::==-=+*++++#%</text>
+<text x="30" y="290.9">                             %==***#%##**#@</text>
+<text x="30" y="300.7">                            %++*#***##*#%@</text>
+<text x="30" y="310.5">                        %#*-.-:+##****#%#*%</text>
+<text x="30" y="320.3">                  #*+-:..   .#==*####%%##*:-=+*%</text>
+<text x="30" y="330.1">               +:.          :++********#%#---::::-+#</text>
+<text x="30" y="339.9">             =. .: ....:.   :-.:=++******+-:--==-::..-*</text>
+<text x="30" y="349.7">            -.:::=.:-:.:-:-:::.  ...::...---:-=====---.:@</text>
+<text x="30" y="359.5">           : :=+++:-=..+*:=-=:.       .::-:+#++====++==-+</text>
+<text x="30" y="369.3">          +  .-=++:--.=+=...--:  ..  .:.:-=*#*++===+++*+=%</text>
+<text x="30" y="379.1">          :  .:==:-..-**+=-:-+-.    ..:.=*##**+====++*++==</text>
+<text x="30" y="388.9">         % .  :*+.::=*%#**=--#=:  ...:.+%%#####*******++=-%</text>
+<text x="30" y="398.7">         # ....#*..:=+#*-..:*#+: ....--%#+===+*+----=***+-+</text>
+<text x="30" y="408.5">         +  .::*%#:-=+**++****=: ...::=#**+=+++====+**#*==-%</text>
+<text x="30" y="418.3">         ::-::-=%@=:++**+===++-. ...-:+#++===++++++*###*==-=</text>
+<text x="30" y="428.1">         .--=+++*@%:=+*+---=*=-. ..:-:+#++===++++++#%#*+++=:*</text>
+<text x="30" y="437.9">        %  .-=++*%@.-+*+---++=:  ..:--+#++++==+++++#%#*+++==-%</text>
+<text x="30" y="447.7">        - .-=+++*#@-:+*=---*:=.   :---+*+++++=*++++#@**+++===+</text>
+<text x="30" y="457.5">       #  :++***##%+-**+=-++-=    :-=-=**=++++**+++*%****++++=#</text>
 </g>
 <g font-size="13.0" xml:space="preserve" style="white-space:pre">
-<text x="404.2" y="47.0"><tspan fill="#7aa2f7">amit</tspan><tspan fill="#565f89">@</tspan><tspan fill="#9ece6a">yadav</tspan></text>
-<text x="404.2" y="66.0"><tspan fill="#6b7394">────────────────────────────────────────────────────────</tspan></text>
-<text x="404.2" y="85.0"><tspan fill="#6b7394"> </tspan></text>
-<text x="404.2" y="104.0"><tspan fill="#e0af68">OS</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">.........................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">Windows 11, Linux, Android</tspan></text>
-<text x="404.2" y="123.0"><tspan fill="#e0af68">Host</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">........................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">TDI Global Hackathon 2026</tspan></text>
-<text x="404.2" y="142.0"><tspan fill="#e0af68">Kernel</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">...................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">Full-Stack &amp; Cloud Developer</tspan></text>
-<text x="404.2" y="161.0"><tspan fill="#e0af68">IDE</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">.......................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">VS Code, GitHub Copilot CLI</tspan></text>
-<text x="404.2" y="180.0"><tspan fill="#6b7394"> </tspan></text>
-<text x="404.2" y="199.0"><tspan fill="#e0af68">Languages.Programming</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">........</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">Python, JavaScript, Java</tspan></text>
-<text x="404.2" y="218.0"><tspan fill="#e0af68">Languages.Computer</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">..............</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">HTML, CSS, YAML, JSON</tspan></text>
-<text x="404.2" y="237.0"><tspan fill="#e0af68">Languages.Real</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">.........................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">English, Hindi</tspan></text>
-<text x="404.2" y="256.0"><tspan fill="#6b7394"> </tspan></text>
-<text x="404.2" y="275.0"><tspan fill="#e0af68">Hobbies.Software</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">Cloud, AI/ML, Web Dev</tspan></text>
-<text x="404.2" y="294.0"><tspan fill="#e0af68">Hobbies.Hardware</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">..................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">Gaming, Photography</tspan></text>
-<text x="404.2" y="313.0"><tspan fill="#6b7394"> </tspan></text>
-<text x="404.2" y="332.0"><tspan fill="#7dcfff">Contact </tspan><tspan fill="#7dcfff">────────────────────────────────────────────────</tspan></text>
-<text x="404.2" y="351.0"><tspan fill="#e0af68">Email</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">.................................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#6b7394">you@example.com</tspan></text>
-<text x="404.2" y="370.0"><tspan fill="#e0af68">GitHub</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">.....................................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#9ece6a">iyadavamit</tspan></text>
-<text x="404.2" y="389.0"><tspan fill="#e0af68">LinkedIn</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">..............................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#6b7394">/in/your-handle</tspan></text>
-<text x="404.2" y="408.0"><tspan fill="#e0af68">Discord</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">...................................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#6b7394">your_handle</tspan></text>
-<text x="404.2" y="427.0"><tspan fill="#6b7394"> </tspan></text>
-<text x="404.2" y="446.0"><tspan fill="#7dcfff">GitHub Stats </tspan><tspan fill="#7dcfff">───────────────────────────────────────────</tspan></text>
-<text x="404.2" y="465.0"><tspan fill="#e0af68">Repos</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">...............................................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#bb9af7">1</tspan></text>
-<text x="404.2" y="484.0"><tspan fill="#e0af68">Followers</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">...........................................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#bb9af7">0</tspan></text>
-<text x="404.2" y="503.0"><tspan fill="#e0af68">Stars Earned</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">........................................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#bb9af7">0</tspan></text>
-<text x="404.2" y="522.0"><tspan fill="#e0af68">Member since</tspan><tspan fill="#e0af68">:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">.................................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">Jul 2026</tspan></text>
-<text x="404.2" y="541.0"><tspan fill="#6b7394"> </tspan></text>
-<text x="404.2" y="560.0"><tspan fill="#f7768e">██</tspan><tspan fill="#e0af68">██</tspan><tspan fill="#9ece6a">██</tspan><tspan fill="#7dcfff">██</tspan><tspan fill="#7aa2f7">██</tspan><tspan fill="#bb9af7">██</tspan><tspan fill="#73daca">██</tspan><tspan fill="#c0caf5">██</tspan></text>
+<text x="415.5" y="43.0"><tspan fill="#7aa2f7">amit</tspan><tspan fill="#565f89">@</tspan><tspan fill="#9ece6a">yadav</tspan></text>
+<text x="415.5" y="61.5"><tspan fill="#6b7394">────────────────────────────────────────────────────────</tspan></text>
+<text x="415.5" y="80.0"><tspan fill="#6b7394"> </tspan></text>
+<text x="415.5" y="98.5"><tspan fill="#e0af68">OS:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">..................................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">Windows 11, Linux</tspan></text>
+<text x="415.5" y="117.0"><tspan fill="#e0af68">Host:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">........................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">TDI Global Hackathon 2026</tspan></text>
+<text x="415.5" y="135.5"><tspan fill="#e0af68">Kernel:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">...................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">Full-Stack &amp; Cloud Developer</tspan></text>
+<text x="415.5" y="154.0"><tspan fill="#e0af68">IDE:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">............................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">IntelliJ IDEA, VS Code</tspan></text>
+<text x="415.5" y="172.5"><tspan fill="#6b7394"> </tspan></text>
+<text x="415.5" y="191.0"><tspan fill="#7dcfff">Technical Skills </tspan><tspan fill="#7dcfff">───────────────────────────────────────</tspan></text>
+<text x="415.5" y="209.5"><tspan fill="#e0af68">Languages:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">Java, C, C++, SQL</tspan></text>
+<text x="415.5" y="228.0"><tspan fill="#e0af68">Frameworks:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">Spring Boot, Apache Kafka, RESTful APIs,</tspan></text>
+<text x="415.5" y="246.5"><tspan fill="#6b7394">            </tspan><tspan fill="#c0caf5">Microservices Architecture</tspan></text>
+<text x="415.5" y="265.0"><tspan fill="#e0af68">Cloud &amp; DevOps:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">Google Cloud Platform (GCP), Terraform,</tspan></text>
+<text x="415.5" y="283.5"><tspan fill="#6b7394">                </tspan><tspan fill="#c0caf5">GitHub Actions, Docker, CI/CD Pipelines</tspan></text>
+<text x="415.5" y="302.0"><tspan fill="#e0af68">Databases:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">Oracle Database</tspan></text>
+<text x="415.5" y="320.5"><tspan fill="#e0af68">Tools:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">Git, Maven, Postman, IntelliJ IDEA, Swagger,</tspan></text>
+<text x="415.5" y="339.0"><tspan fill="#6b7394">       </tspan><tspan fill="#c0caf5">Jira, Confluence, gcloud CLI, Shell (Bash),</tspan></text>
+<text x="415.5" y="357.5"><tspan fill="#6b7394">       </tspan><tspan fill="#c0caf5">SWIFT Translator</tspan></text>
+<text x="415.5" y="376.0"><tspan fill="#6b7394"> </tspan></text>
+<text x="415.5" y="394.5"><tspan fill="#7dcfff">Contact </tspan><tspan fill="#7dcfff">────────────────────────────────────────────────</tspan></text>
+<text x="415.5" y="413.0"><tspan fill="#e0af68">Email:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">.............................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">ay3593161@gmail.com</tspan></text>
+<text x="415.5" y="431.5"><tspan fill="#e0af68">GitHub:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">.....................................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#9ece6a">iyadavamit</tspan></text>
+<text x="415.5" y="450.0"><tspan fill="#e0af68">LeetCode:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">.................................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#ffa116">Amit_yadav01</tspan></text>
+<text x="415.5" y="468.5"><tspan fill="#6b7394"> </tspan></text>
+<text x="415.5" y="487.0"><tspan fill="#7dcfff">GitHub Stats </tspan><tspan fill="#7dcfff">───────────────────────────────────────────</tspan></text>
+<text x="415.5" y="505.5"><tspan fill="#e0af68">Repos:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">...............................................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#bb9af7">1</tspan></text>
+<text x="415.5" y="524.0"><tspan fill="#e0af68">Stars Earned:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">........................................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#bb9af7">0</tspan></text>
+<text x="415.5" y="542.5"><tspan fill="#e0af68">Followers:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">...........................................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#bb9af7">0</tspan></text>
+<text x="415.5" y="561.0"><tspan fill="#e0af68">Following:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">...........................................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#bb9af7">1</tspan></text>
+<text x="415.5" y="579.5"><tspan fill="#e0af68">Member since:</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#3b4261">.................................</tspan><tspan fill="#6b7394"> </tspan><tspan fill="#c0caf5">Jul 2026</tspan></text>
+<text x="415.5" y="598.0"><tspan fill="#6b7394"> </tspan></text>
+<text x="415.5" y="616.5"><tspan fill="#f7768e">██</tspan><tspan fill="#e0af68">██</tspan><tspan fill="#9ece6a">██</tspan><tspan fill="#7dcfff">██</tspan><tspan fill="#7aa2f7">██</tspan><tspan fill="#bb9af7">██</tspan><tspan fill="#73daca">██</tspan><tspan fill="#c0caf5">██</tspan></text>
 </g>
 </svg>

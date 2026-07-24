@@ -1,0 +1,61 @@
+name: Refresh profile card
+
+on:
+  schedule:
+    # midnight IST (00:00 +05:30) == 18:30 UTC, every day
+    - cron: "30 18 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - generate.py
+      - portrait.txt
+      - render.js
+      - .github/workflows/profile.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-card
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Ensure monospace font
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends fonts-dejavu-core
+
+      - name: Install SVG renderer
+        run: npm install @resvg/resvg-js@^2
+
+      - name: Generate SVG with live GitHub stats
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 generate.py
+
+      - name: Render PNG
+        run: node render.js
+
+      - name: Commit updated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg dark_mode.png stats.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: refresh profile card [skip ci]"
+            git push
+          fi

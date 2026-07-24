@@ -1,3 +1,8 @@
 node_modules/
-*.png
+package.json
+package-lock.json
 .DS_Store
+# ignore preview PNGs, but keep the ones the profile uses
+*.png
+!dark_mode.png
+!avatar.png
