@@ -14,7 +14,7 @@
 -->
 
 <p align="center">
-  <img src="./dark_mode.svg" width="880" alt="amit@yadav — neofetch profile card" />
+  <img src="./dark_mode.png" width="850" alt="amit@yadav — neofetch profile card" />
 </p>
 
 <p align="center">
