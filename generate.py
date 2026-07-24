@@ -100,13 +100,7 @@ def wrap_commas(value, width):
     if cur: lines.append(cur)
     return lines
 
-def skill(key, value):
-    prefix = key + ": "
-    lines = wrap_commas(value, COLS - len(prefix))
-    rows=[[(key+":",KEY),(" ",DIM),(lines[0],VAL)]]
-    for cont in lines[1:]:
-        rows.append([(" "*len(prefix),DIM),(cont,VAL)])
-    return rows
+
 
 # ---- assemble panel ----
 stats = load_stats()
@@ -115,9 +109,6 @@ LINES.append([(HEADER_USER,NAME),("@",AT),(HEADER_HOST,GREENU)])
 LINES.append([("\u2500"*COLS,DIM)])
 LINES.append(blank())
 for k,v in SYSTEM: LINES.append(kv(k,v))
-LINES.append(blank())
-LINES.append(header("Technical Skills"))
-for k,v in SKILLS: LINES += skill(k,v)
 LINES.append(blank())
 LINES.append(header("Contact"))
 LINES.append(kv("Email", EMAIL))
